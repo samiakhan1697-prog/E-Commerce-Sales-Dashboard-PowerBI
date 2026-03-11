@@ -47,9 +47,11 @@ The dashboard includes the following key components:
 
 
 ## Dashboard Preview
-<img width="1291" height="739" alt="dashboard png" src="https://github.com/user-attachments/assets/85be489a-6f91-4f5e-8716-633839ed8d99" />
-<img width="1280" height="733" alt="category_chart png" src="https://github.com/user-attachments/assets/4987a518-cdc1-4a6e-b509-cf39007109b3" />
-<img width="1293" height="737" alt="sales_trend png" src="https://github.com/user-attachments/assets/cca5c467-caf0-4d21-a58d-60776ce16365" />
+<img width="1297" height="744" alt="dashboard png" src="https://github.com/user-attachments/assets/30a27a4e-6f86-4b2a-afb3-477373ee6864" />
+
+<img width="1306" height="746" alt="category_chart png" src="https://github.com/user-attachments/assets/b9666701-b54c-480d-9e79-814757530ee1" />
+
+<img width="1301" height="737" alt="sales_trend png" src="https://github.com/user-attachments/assets/713c5cbf-52a4-4aca-872f-e5e392302a72" />
 
 
 ## Author
